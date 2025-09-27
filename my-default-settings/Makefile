@@ -18,7 +18,7 @@ define Package/$(PKG_NAME)
   SECTION:=luci
   CATEGORY:=LuCI
   TITLE:=Default Settings
-  MAINTAINER:=Kiddin'
+  MAINTAINER:=xybydy
   PKGARCH:=all
   DEPENDS:=+luci-base
 endef
